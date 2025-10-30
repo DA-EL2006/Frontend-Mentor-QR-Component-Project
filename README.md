@@ -115,7 +115,7 @@ Frontend Mentor
 
 Author
 
-Website: Kayode David Odunayo
+Name: Kayode David Odunayo
 
 Frontend Mentor: Kayode David Odunayo
 
